@@ -1,5 +1,5 @@
 
-#This is a clone of the original repository https://github.com/nageshsinghc4/Exoplanet-exploration
+# This is a clone of the original repository https://github.com/nageshsinghc4/Exoplanet-exploration
 Used for Computational Astrobiology class at University of Belgrade 2024
 # Exoplanet exploration
 
